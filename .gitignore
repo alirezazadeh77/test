@@ -1,0 +1,7 @@
+/venv
+/library/migrations
+/customauth/migrations
+db.sqlite3
+/interview/.env
+.idea/
+__pycache__/
