@@ -1,0 +1,4 @@
+/venv
+/library/migrations
+/customauth/migrations
+db.sqlite3
